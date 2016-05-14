@@ -10,7 +10,7 @@ from email.mime.text import MIMEText
 # jb == Jarbas' default email
 # user == user's email
 jb = "jarbas.butler@gmail.com"
-user = 'gvieira.mat@gmail.com'
+user = '@gmail.com'
 
 # Create message container - the correct MIME type is multipart/alternative.
 msg = MIMEMultipart('alternative')
