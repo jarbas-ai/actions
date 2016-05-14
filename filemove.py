@@ -1,7 +1,7 @@
 # -*- CODING: UTF-8 -*-
 import sys
 import shutil
-#Função mover arquivo para pasta
+#Funcao mover arquivo para pasta
 
 
 def filemove(absfilepath, destinationpath):
