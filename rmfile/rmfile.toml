@@ -1,9 +1,9 @@
-title = "Remove File"           # The task title
+title = "Remove File"         # The task title
 version = "0.1.0"             # Current version
 authors = [ "Jarbas" ]        # Array with this task authors
-date = 2016-05-27T17:08:00    # Curren version release date
+date = 2016-05-27T17:08:00    # Current version release date
 categories = "action"         # Action or trigger
-tags = [ "filesystem" ]             # Easier task search
+tags = [ "filesystem" ]       # Easier task search
 min_jarbas_version = "0.1.0"  # Minimum Jarbas version required
 
 # The programming language that this task need
